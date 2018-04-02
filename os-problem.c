@@ -190,7 +190,35 @@ int main()
 	
 	
 	
-	
+/*
+In this above problem and solution the time priority we are given as per as time requirement lesser time person give higher priority.
+let consider student time 10 pm to 6 am .
+                    faculty time 5pm to 8am.
+                   computer staff  all times.
+the first priority at 10 pm to 6 am is given to student then faculty then computer staff.
+similary at time 5pm to 10 pm give priority to faculty and at time 6am to 8am also
+and other time is only for computer staff.
+In this solution first they no person on which profession is present in row after that it want time to user to enter to play we enter the time 
+than it's check any of the person join the row then if any one the we join it and than it show how many person are avaliable in row than it 
+want again time for second user and it continue for all time.
+test case:-
+s=0
+f=0
+cs=0
+time 22   (0-24hr)
+result:- no person present in row.
+test 2:-
+s=2
+f=2
+cs=2
+time 22
+result:-student is play 
+time :-13
+result:-computer staff play
+time:-18
+result:-faculty is play
+as shown w.r.t to time .
+*/
 	
 	
 	
