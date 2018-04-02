@@ -1,5 +1,9 @@
 //os project:-
-//Q.
+/*
+Q.
+Consider a system in which"computer games”can be played by students only between 10 P.M. and 6  A.M., by faculty members between 5P.M. and 8 A.M.
+, and by the computer center staff at all times. Suggest ascheme for implementing this policy effciently.?
+*/
 #include<stdio.h>
 int main()
 {
