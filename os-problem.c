@@ -14,7 +14,7 @@ int main()
 	// here i define the no of person present to play the game
 	printf("enter the no of student in row\n");
 	scanf("%d",&a);
-	printf("enter the no of facilty in row\n");
+	printf("enter the no of faculty in row\n");
 	scanf("%d",&b);
 	printf("enter the no of computer center staff in a row \n");
 	scanf("%d",&c);
@@ -30,7 +30,7 @@ int main()
 		printf("position at entry time:s[a]=%d\n",i);
 	}
 	
-	//array of facilty with position:-
+	//array of faculty with position:-
 	    printf(" the position of facilty:-\n");
 	
 	for(i=1;i<=b;i++)
@@ -140,7 +140,7 @@ int main()
 	
 		
 		printf("1.if one student enter in queue k:-1\n");
-		printf("1.if one facilty enter in queue k:-2\n");
+		printf("1.if one faculty enter in queue k:-2\n");
 		printf("3.if one computer staff enter in a queue k:-3\n");
 		printf("4.exit k:-4\n");
 
